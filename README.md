@@ -1,6 +1,6 @@
-Vertical News Ticker
+yii2 VTicker Widgets
 ====================
-Vertical News Ticker
+yii2 VTicker Widgets
 
 Installation
 ------------
